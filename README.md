@@ -4,7 +4,7 @@ This repository contains hands-on Google Colab notebooks and code from the compr
 
 ---
 
-## 🎯 What You'll Learn
+## 🎯 What I'll Learn
 
 ### 🔹 Tensors and TensorFlow Basics
 - Tensor creation, casting, indexing, and math operations
@@ -96,3 +96,6 @@ This repository is based on the **"Deep Learning for Computer Vision"** YouTube 
 
 📌 *This repository is for educational purposes only.*
 
+
+## 🚀 If you want to access the course here is the link
+https://youtu.be/IA3WxTTPXqQ?si=-zM5meM6JPRAIGOJ
